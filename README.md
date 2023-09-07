@@ -27,3 +27,4 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeoYunnn&show_icons=true&theme=gruvbox_light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoYunnn&layout=compact)
