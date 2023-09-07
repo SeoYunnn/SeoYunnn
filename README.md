@@ -7,7 +7,7 @@
   "age": "22",
   "university": "Hanbat National University",  
   "lab": "Wisoft",
-  "residence": "Daejeon in ROK",
+  "hobby": "listening to music", "game"
   "goal": "Backend-Developer"
 }
 ```
