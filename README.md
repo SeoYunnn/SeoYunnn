@@ -1,6 +1,11 @@
 # <center> Nice to meet you, welcome to SeoYunnn github 🙇🏻‍♀️ </center>
 ### 💬 Introduce me
 
+<p align="center">
+<img src="https://github.com/SeoYunnn/SeoYunnn/assets/120713987/7b39b446-e313-4c76-a5d3-a8760bbd72c9.png" width="500" height="500">
+  
+<br>
+
 ```Json
 {
   "name": "Lee Seo Yun",
