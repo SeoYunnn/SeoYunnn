@@ -12,7 +12,6 @@
   "age": "22",
   "university": "Hanbat National University",  
   "lab": "Wisoft",
-  "hobby": "listening to music", "game",
   "goal": "Backend-Developer"
 }
 ```
