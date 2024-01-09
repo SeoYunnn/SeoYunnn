@@ -9,7 +9,7 @@
 ```Json
 {
   "name": "Lee Seo Yun",
-  "age": "22",
+  "age": "23",
   "university": "Hanbat National University",  
   "lab": "Wisoft",
   "goal": "Backend-Developer"
